@@ -46,7 +46,7 @@ python see_results.py -o ppo
 - `requirements.txt` - Lista wymaganych bibliotek.
 - `models/` - Folder zawierający zapisane modele dla każdego algorytmu.
 - `algorithms/` - Folder zawierający pliki z algorytmami do trenowania sieci.
-- `results/` - Folder, w którym znajduje się wykres z wynikami ostatniego eksperymentu.
+- `figures/` - Folder, w którym znajduje się wykres z wynikami ostatniego eksperymentu.
 
 ## Autor
 Paweł Kocur
