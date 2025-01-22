@@ -44,8 +44,9 @@ python see_results.py -o ppo
 - `main.py` - Skrypt główny do uruchamiania testów i trenowania modeli.
 - `see_results.py` - Skrypt umożliwiający wizualizację działania wytrenowanych sieci.
 - `requirements.txt` - Lista wymaganych bibliotek.
-- `models/` - Folder zawierający zapisane modele dla każdego algorytmu oraz funkcje trenujące.
-- `results/` - Folder, w którym znajduje się wykres z wynikami ostatniego eksperymentu
+- `models/` - Folder zawierający zapisane modele dla każdego algorytmu.
+- `algorithms/` - Folder zawierający pliki z algorytmami do trenowania sieci.
+- `results/` - Folder, w którym znajduje się wykres z wynikami ostatniego eksperymentu.
 
 ## Autor
 Paweł Kocur
