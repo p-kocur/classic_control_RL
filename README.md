@@ -8,8 +8,8 @@ Aby uruchomić ten projekt, upewnij się, że masz zainstalowanego Pythona w wer
 
 1. Skopiuj repozytorium na swój komputer:
    ```bash
-   git clone https://github.com/twoje-repozytorium.git
-   cd twoje-repozytorium
+   git clone https://github.com/p-kocur/classic_control_RL
+   cd classic_control_RL
    ```
 
 2. Zainstaluj wymagane biblioteki:
